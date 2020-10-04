@@ -1,0 +1,6 @@
+*Assembly-CSharp.csproj
+*obj/
+*Exports/
+*The Steeler.sln
+*.vs/
+*Temp/
